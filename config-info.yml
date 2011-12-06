@@ -1,0 +1,4 @@
+# Configuration options that should be placed in your main SiriProxy config.yml
+
+    - name: 'TubeUpdates'
+      git: 'git://github.com/bendodson/SiriProxy-TubeUpdates.git'
