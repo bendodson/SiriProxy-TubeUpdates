@@ -1,5 +1,7 @@
 This is a basic plugin for SiriProxy that will allow you to check the status of the various London Underground lines.
 
+There are some screenshots and a brief overview on [my blog](http://bendodson.com/weblog/2011/12/06/hows-the-london-underground-ask-siri/)
+
 # Setup
 
 1. Copy the contents of `config-info.yml` into your `~/.siriproxy/config.yml`
